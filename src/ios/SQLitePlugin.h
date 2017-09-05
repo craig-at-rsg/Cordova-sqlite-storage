@@ -7,6 +7,7 @@
  */
 
 #import <Cordova/CDVPlugin.h>
+#import "PSPDFThreadSafeMutableDictionary.h"
 
 // Used to remove dependency on sqlite3.h in this header:
 struct sqlite3;
