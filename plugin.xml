@@ -71,6 +71,8 @@
         <!-- Note: the macOS src is based off src/ios implicitly -->
         <header-file src="src/ios/SQLitePlugin.h" />
         <source-file src="src/ios/SQLitePlugin.m" />
+        <header-file src="src/ios/PSPDFThreadSafeMutableDictionary.h" />
+        <source-file src="src/ios/PSPDFThreadSafeMutableDictionary.m" />
         <!-- FUTURE TBD: more common directory name for Apple macOS/iOS versions -->
 
         <header-file src="node_modules/cordova-sqlite-storage-dependencies/sqlite3.h" />
